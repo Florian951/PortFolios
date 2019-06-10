@@ -3,7 +3,12 @@
 
 
 /*  backgrount index  */
-
+header{
+    background-image:url(images/iStock_000052814088_Large-e1462447825290.jpg);
+    background-position: center center; 
+    height: 1080;
+    
+}
 body {
     
     background-color: #ffffff; 
@@ -27,19 +32,19 @@ body {
 
 /* Police titrage   */
 
+p{
+    color: black;
+    font-size: 22px;
+
+}
+
 
 h1{
     font-size: 50px;
-    color: black;
+    color: rgb(2, 2, 2);
 
 }
 
-h2{
-    font-size: 20px;
-    color: red;
-    
-
-}
 
 h3{
 
@@ -51,13 +56,19 @@ h3{
 
 /*FOOTER*/
 
-.footer {
+#footer {
 
-    background-color: black;
+    background-color: rgb(206, 206, 206);
+    
 
 }
 
+#contact{
+background-color: #919191;
+width: 1920px;
+height: 300px;
 
+}
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
