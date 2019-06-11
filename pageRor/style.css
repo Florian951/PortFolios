@@ -11,16 +11,7 @@ body {
         background-image:url("../images/Sans\ titre-3.png");
         background-repeat:no-repeat;
         background-position:center center;
-
-
        }
-
-#titrage{
-  
-    width: 400px;
-    background-color: #ffffff;
-
-}
 
 #navBarre{
     
@@ -30,10 +21,7 @@ body {
    
 }
 
-
-
 /* Police titrage   */
-
 
 h1{
     font-size: 20px;
@@ -49,15 +37,15 @@ hr {
     -moz-border-left-colors: none;
     -moz-border-right-colors: none;
     -moz-border-top-colors: none;
-    border-color: rgb(255, 255, 255) -moz-use-text-color #FFFFFF;
     border-style: solid none;
     border-width: 0px 0;
-    margin: 10px 0;
+    
   }
 
-  #textror {
+  #textror{
       
-      border-radius: 10px;
+      
+     
   }
 
 /*FOOTER*/
